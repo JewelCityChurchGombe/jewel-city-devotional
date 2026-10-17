@@ -1,0 +1,34 @@
+<!doctype html>
+<html lang='en'>
+<head>
+<meta charset='utf-8'>
+<meta name='viewport' content='width=device-width, initial-scale=1'>
+<title>Archive · Daily Devotional · Jewel City Church, Gombe</title>
+<meta name='description' content='Every edition of the daily devotional of Jewel City Church, Gombe.'>
+<link rel='preconnect' href='https://fonts.googleapis.com'>
+<link rel='preconnect' href='https://fonts.gstatic.com' crossorigin>
+<link href='https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,600;0,700;1,500&family=Inter:wght@400;500;600&display=swap' rel='stylesheet'>
+<link rel='stylesheet' href='styles.css'>
+</head>
+<body>
+<header class='site'>
+<p class='eyebrow'>Jewel City Church · Gombe</p>
+<h1>The Daily Devotional</h1>
+<p class='tagline'>A daily portion from the messages preached among us</p>
+<nav><a href='index.html'>Today</a><a href='archive.html' class='active'>Archive</a></nav>
+</header>
+<main>
+<h2 class='page-title'>Every edition</h2>
+<div id='list'></div>
+</main>
+<footer class='site-foot'><p>© 2026 Jewel City Church, Gombe</p></footer>
+<script src='devotions.js'></script>
+<script>
+function esc(s){return s.replace(/&/g,'&amp;').replace(/</g,'&lt;')}
+function headerHTML(e){return `<p class='date'>${esc(e.display)}</p><h2>${esc(e.title)}</h2>`}
+function anchorHTML(e){return `<blockquote class='anchor'><p>${esc(e.anchorText)}</p><cite>${esc(e.anchorRef)}</cite></blockquote>`}
+function bodyHTML(e){const ps=e.paragraphs.map(p=>`<p>${esc(p)}</p>`).join('');return anchorHTML(e)+`<div class='body'>${ps}</div><section class='reflection'><h3>Reflection question</h3><p>${esc(e.reflection)}</p></section><section class='prayer'><h3>Closing prayer</h3><p>${esc(e.prayer)}</p></section>`}
+document.getElementById('list').innerHTML=DEVOTIONS.map((e,i)=>{if(i===0){return `<article class='card'>${headerHTML(e)}${bodyHTML(e)}</article>`}return `<details class='card closed'><summary><span class='s-date'>${esc(e.display)}</span><span class='s-title'>${esc(e.title)}</span></summary><div class='entry'>${bodyHTML(e)}</div></details>`}).join('');
+</script>
+</body>
+</html>

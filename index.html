@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang='en'>
+<head>
+<meta charset='utf-8'>
+<meta name='viewport' content='width=device-width, initial-scale=1'>
+<title>Daily Devotional · Jewel City Church, Gombe</title>
+<meta name='description' content='A daily devotional drawn from the messages preached at Jewel City Church, Gombe. A new edition every midnight, West African time.'>
+<link rel='preconnect' href='https://fonts.googleapis.com'>
+<link rel='preconnect' href='https://fonts.gstatic.com' crossorigin>
+<link href='https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,600;0,700;1,500&family=Inter:wght@400;500;600&display=swap' rel='stylesheet'>
+<link rel='stylesheet' href='styles.css'>
+</head>
+<body>
+<header class='site'>
+<p class='eyebrow'>Jewel City Church · Gombe</p>
+<h1>The Daily Devotional</h1>
+<p class='tagline'>A daily portion from the messages preached among us</p>
+<nav><a href='index.html' class='active'>Today</a><a href='archive.html'>Archive</a></nav>
+</header>
+<main>
+<article id='featured' class='card'></article>
+<section class='card'>
+<h3 class='block-label'>Previously</h3>
+<ul id='recent' class='recent-list'></ul>
+<p class='all-link'><a href='archive.html'>Browse the full archive →</a></p>
+</section>
+<section class='card'>
+<h3 class='block-label'>About this devotional</h3>
+<p class='about-text'>Each devotional is drawn from a single message preached at Jewel City Church, Gombe, and stays wholly within that message’s own words and scriptures: an anchor scripture, a short reflection with its references, a question to carry through the day, and a closing prayer. A new edition is published every midnight, West African time.</p>
+</section>
+</main>
+<footer class='site-foot'><p>© 2026 Jewel City Church, Gombe</p></footer>
+<script src='devotions.js'></script>
+<script>
+function esc(s){return s.replace(/&/g,'&amp;').replace(/</g,'&lt;')}
+function headerHTML(e){return `<p class='date'>${esc(e.display)}</p><h2>${esc(e.title)}</h2>`}
+function anchorHTML(e){return `<blockquote class='anchor'><p>${esc(e.anchorText)}</p><cite>${esc(e.anchorRef)}</cite></blockquote>`}
+function bodyHTML(e){const ps=e.paragraphs.map(p=>`<p>${esc(p)}</p>`).join('');return anchorHTML(e)+`<div class='body'>${ps}</div><section class='reflection'><h3>Reflection question</h3><p>${esc(e.reflection)}</p></section><section class='prayer'><h3>Closing prayer</h3><p>${esc(e.prayer)}</p></section>`}
+const d=DEVOTIONS[0];
+document.getElementById('featured').innerHTML=headerHTML(d)+bodyHTML(d);
+document.getElementById('recent').innerHTML=DEVOTIONS.slice(1,5).map(e=>`<li><a href='archive.html'>${esc(e.display)}</a><span class='sep'>·</span>${esc(e.title)}</li>`).join('');
+</script>
+</body>
+</html>
