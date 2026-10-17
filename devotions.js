@@ -1,5 +1,20 @@
 const DEVOTIONS = [
   {
+    date: '2026-10-18',
+    display: 'Sunday, 18 October 2026',
+    title: 'The Profound Centrality of Resurrection in Christianity',
+    anchorText: '“You are born again, not of corruptible seed but of incorruptible, through the word of God”',
+    anchorRef: '1 Peter 1:23 (KJV)',
+    paragraphs: [
+      'The cost of establishing the Christian era, which began after Jesus’s resurrection, was immense. The greatest opposition and point of contention from the enemy is the denial of the resurrection of Jesus Christ. The essence of the early Christian message is that Jesus has risen from the dead: this belief was not born of mere zeal but of a deep conviction of the Holy Spirit, whose coming is the ultimate proof of Christ’s resurrection (Acts 1). If Christ has not risen, our preaching is vain, and our faith is in vain; we are still in our sins, and those who have died in Christ have perished (1 Corinthians 15). Resurrection is the very foundation and basis of our faith; there is no Christianity without it. If we are limited to this life only, we are “of all men most to be pitied.”',
+      'Resurrection is the defeat of death, the last and absolute enemy. The problem of man is death, and the answer is resurrection: God showed His ultimate power not by transforming death but by conquering it through raising Jesus. Jesus corrected the Sadducees’ misunderstanding of Scripture regarding the afterlife, stating that because they did not understand resurrection, they “err and do not know the Scriptures nor the power of God” (Matthew 22:27-30). Without understanding resurrection, one cannot truly understand Scripture or walk in the power to defeat death. It is the only escape room from death.',
+      'Transformation is necessary, but it is a means to an end, not the final goal. Transformation works on the soul, specifically the mind: it is reformation, altering the bad to make it good, the renewal of the mind (Romans 12:1-3), the daily process of giving up self-life and allowing the inner death to take place. Resurrection is regeneration: bringing back to life that which died, in the whole person, spirit, soul, and body. Paul’s aim was to know Christ and the power of His resurrection, and the fellowship of His sufferings, that he might attain unto the resurrection of the dead (Philippians 3). Transformation is the path one walks to attain the final resurrection.',
+      'The hope of resurrection is tied to the concept of a seed, as discussed in 1 Corinthians 15. The day a person becomes a Christian, they are buried into Christ’s death like a seed, and the hope is that by dying the death of Christ daily, they will receive resurrection. Resurrection is not simply being brought back to life as Lazarus was, because Lazarus remained a mortal man after his revival. When a person dies, it is not the seed that dies, but the old self: “You are born again, not of corruptible seed but of incorruptible, through the word of God” (1 Peter 1:23). The coming resurrection will bring forth bodies with different glories, celestial and terrestrial, determined by the quality of the life lived. Every person will be resurrected, but in their own order: Christ the firstfruits, then those who are Christ’s at His coming (1 Corinthians 15).'
+    ],
+    reflection: 'Is transformation the goal you are chasing, or are you walking the path that leads to attaining the resurrection of the dead?',
+    prayer: 'Lord, I believe that Jesus has risen from the dead, and His resurrection is the very foundation of my faith. Let me never be limited to this life only, and make me unafraid of death or persecution. Renew my mind daily as I give up self-life, and let me, like Paul, seek to know Christ and the power of His resurrection, that I may attain unto the resurrection of the dead. I am born again, not of corruptible seed but of incorruptible, through the word of God; let that divine and incorruptible life come forth in me. In Jesus’ name, Amen.'
+  },
+  {
     date: '2026-10-17',
     display: 'Saturday, 17 October 2026',
     title: 'The Two Positions: In Him vs. In the World',
