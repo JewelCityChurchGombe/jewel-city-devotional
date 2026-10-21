@@ -1,5 +1,20 @@
 const DEVOTIONS = [
   {
+    date: '2026-10-22',
+    display: 'Thursday, 22 October 2026',
+    title: 'Breathe Is Enough: Thanksgiving, the Way Up to God',
+    anchorText: '“Seven times a day will I give thanksgiving.”',
+    anchorRef: 'Psalm 119:164 (KJV)',
+    paragraphs: [
+      'Giving thanks to the Lord is a mystery that we are yet to clearly understand. “Seven times a day will I give thanksgiving” (Psalm 119:164): David understood that praise is actually thanksgiving. Thanksgiving is both a mystery and a law of God, and we are commanded to give it. The prayer we should pray more often is the prayer of thanksgiving. God has been good to us, yet many times we fail to see it because Satan blinds us to His goodness. Thanksgiving is not something to offer monthly or weekly; it should be a daily lifestyle.',
+      'There are three categories of people in thanksgiving. First, those who do not give thanks at all: not because they have nothing to thank God for, but because they fail to recognize His hand. Luke 12:16-18 speaks of the rich man who was blessed with abundance yet felt he had provided for himself, forgetting that all came from God; the problem was not his wealth but his pride. Life is God’s gift: can you give yourself an extra second of breath? Second, those who thank God wrongly: Luke 18:10 shows the Pharisee who thanked God in pride, boasting of his acts. Thanksgiving must not be a display of self-achievement; it should be rooted in humility and reverence. Third, those who thank God rightly: of the ten lepers, nine who knew the law did not return, but the Samaritan did, and Jesus asked, “Where are the rest?” because He knew the importance of thanksgiving (Luke 17:15-18). True thanksgiving acknowledges God’s mercy and returns glory to Him.',
+      'The most appropriate time to give thanks is even in the midst of battle: thanksgiving is a weapon. Daniel gave thanks even after the decree forbidding worship; he chose thanksgiving in the face of danger (Daniel 6:10). We must be valiant in faith: weakness in thanksgiving is weakness in faith. Even when afflicted or denied the chance to worship, we must not cut away from God. Chains break through thanksgiving: the disciples were chained, but the chains fell off after they gave praise (Acts 16:25-26). As we thank Him, anger, pain, and burdens cease; every prison and chain collapses by the power of praise.',
+      'God says, “If you are alive, give Me thanks.” He did not say give prayers or offerings; thanksgiving is the only thing we truly give to Him. Breath is the only criterion required for thanksgiving: if you have breath, you have all you need to give thanks (Psalm 150:6). No problem or issue is greater than God, and waking up in the morning is enough reason to thank Him. Give thanks in all things, not because of circumstances (1 Thessalonians 5:18). Thanksgiving is incense rising to God, a posture of the heart that sees God in everything: let God be visible in all things, and let our hearts never be far from thanksgiving. It is the way up to God.'
+    ],
+    reflection: 'If breath is the only criterion required for thanksgiving, what excuse do you have for not thanking God today?',
+    prayer: 'Lord, we thank You. Forgive us for the days we failed to recognize Your hand, and keep us from thanksgiving that is pride. Like the one leper who returned, we come back to give You the glory, acknowledging Your mercy. Teach us to thank You even in the midst of battle, that every prison and chain may collapse by the power of praise. With the breath You gave us, we have no excuse: we give You thanks every day, and our hearts will never be far from thanksgiving. In Jesus’ name, Amen.'
+  },
+  {
     date: '2026-10-21',
     display: 'Wednesday, 21 October 2026',
     title: 'The Holy Spirit’s Dominion',
