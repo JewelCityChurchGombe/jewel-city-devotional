@@ -1,5 +1,19 @@
 const DEVOTIONS = [
   {
+    date: '2026-10-23',
+    display: 'Friday, 23 October 2026',
+    title: 'Practical Faith: Defying What Has Been Said',
+    anchorText: '“The just shall live by faith.”',
+    anchorRef: 'Habakkuk 2:4 (KJV)',
+    paragraphs: [
+      'The Bible says the just shall live by faith (Habakkuk 2:4). The prescription of a just man is faith: our life is prescribed, and everything that we are supposed to do or live is already prescribed. We need faith to walk that path, because we know no other way, and it is the person of the Holy Spirit that can interpret that path for us. Faith is not denial of what has been said but defying what has been said. Faith does not refuse truth: it acknowledges the circumstances, but it challenges those circumstances. The next step is to agree it is happening, yet refuse to accept that happening and challenge it. That is what practical faith is.',
+      'The Shunammite woman in 2 Kings 4:8, who honoured Elisha and cared for him, had a child through his prophecy, but the child died. Faith was shown when she took the child and laid it on the prophet’s bed: she did not first acknowledge that the child had died, and she did not cry and shout as is natural. Her husband, on the other hand, lived by traditions and facts. She did not tell her husband that the child was dead; she only said, “It shall be well,” not “It has happened to us.” That alone was a position where the child could no longer be taken away. When Gehazi asked her, she repeated the same phrase, “It is well.” God does not answer to persons: when things happen that you cannot explain, do not go to any dictionary or book to check; that is where His supremacy is shown. She never asked for the child, for she had reached the point where she was content without one.',
+      'Your faith burden can be quenched if you expose it. When you are raising a seed of faith, you guard it: you cannot expose your seed of faith to distractions. And faith does not need procrastination: if you sit down to analyse a situation, faith can no longer be used but logic. Peter stepped out of the boat immediately when Jesus told him to come, but when he saw the wind, his eyes deflated his faith (Matthew 14:28-31). When you respond with your eyes, you cannot build faith: what the eyes see, the heart begins to rationalize, and fear enters. In the walk of faith, the moment we rationalize, fear sets in, and when fear takes over, we begin to sink. The walk of faith requires an immediate response and no distractions. You may face storms of shame and fear at distraction, but Scripture says, looking unto Jesus, the author and finisher of our faith (Hebrews 12:2).'
+    ],
+    reflection: 'When the unexplainable happens, do you keep saying “It shall be well” and guard your seed of faith, or do you expose it to what your eyes can see?',
+    prayer: 'Lord, take us from theory faith to walking and working in faith, for the times that are coming will check whether we really understand what faith is. Let our faith not be denial of what has been said but defiance of it: we acknowledge the circumstances, yet we challenge them. Guard our seed of faith from distractions, and keep us from rationalizing until fear takes over. Our eyes are on Jesus, the author and finisher of our faith. In Jesus’ name, Amen.'
+  },
+  {
     date: '2026-10-22',
     display: 'Thursday, 22 October 2026',
     title: 'Breathe Is Enough: Thanksgiving, the Way Up to God',
