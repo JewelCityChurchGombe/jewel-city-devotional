@@ -1,5 +1,20 @@
 const DEVOTIONS = [
   {
+    date: '2026-10-24',
+    display: 'Saturday, 24 October 2026',
+    title: 'True Value: The Price God Placed on Us',
+    anchorText: '“For God so loved the world, that he gave his only begotten Son, that whosoever believeth in him should not perish, but have everlasting life.”',
+    anchorRef: 'John 3:16 (KJV)',
+    paragraphs: [
+      'Saul was the best student of the best teacher, Gamaliel: he learned the master’s teachings but not his life, because some things are not learned from books but from life, and knowledge without humility puffs up (Acts 22:3). Saul’s passion for religion met Stephen’s passion for Christ. You can be passionate for something wrong or right. Stephen was ready to lose all: he gave up everything for Christ (Acts 7:59-60), and God Himself gave up His Son to death. God can only be true to those who are true to Him. The question that collision of passions asks is: what are we ready to lose for the gospel?',
+      'The worth of a thing is defined by what someone is willing to pay for it. Jesus Christ is the price tag God placed on us, and that means our value is immeasurable: He gave His only Son, not one of many, but His only one (John 3:16). We often let people define our value, but only the One who purchased us has the right to determine it. We are God’s valuables.',
+      'Jesus spoke of the widow who gave her all (Mark 12:41-44): the value of giving is not in the amount but in the ratio, for giving all is different from giving out of abundance. God will not lose us because we are precious: the price to purchase is not less than the price to keep. He purchased us by Jesus, and He keeps us by Jesus. Even if we have not attained the heights He desires, He will still keep us; but it is not only about being kept, it is about pleasing Him.',
+      'Our value is not in what people say, but in what God paid. Therefore we must be ready to give all for Him, just as He gave all for us. The measure God used to purchase us is the same measure He uses to keep us: we are priceless in His sight. Let us live not to prove our worth to men, but to please the One who paid the highest price for us.',
+    ],
+    reflection: 'Only the One who purchased you has the right to determine your value: are you living to prove your worth to men, or to please the One who paid the highest price for you?',
+    prayer: 'Lord, thank You for the price You placed on us: Your only begotten Son. Deliver us from knowledge without humility, and from a passion for religion that never becomes a passion for Christ. Teach us to give our all, in ratio and not out of abundance, and to find our worth not in what people say but in what You paid. The price to purchase is not less than the price to keep: keep us, and make our keeping bring You pleasure. In Jesus’ name, Amen.'
+  },
+  {
     date: '2026-10-23',
     display: 'Friday, 23 October 2026',
     title: 'Practical Faith: Defying What Has Been Said',
