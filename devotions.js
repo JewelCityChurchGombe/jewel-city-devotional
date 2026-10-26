@@ -1,5 +1,20 @@
 const DEVOTIONS = [
   {
+    date: '2026-10-27',
+    display: 'Tuesday, 27 October 2026',
+    title: 'The Reality of Living Proof and the Vanity of the Mind',
+    anchorText: '“And be not conformed to this world: but be ye transformed by the renewing of your mind, that ye may prove what is that good, and acceptable, and perfect, will of God.”',
+    anchorRef: 'Romans 12:2 (KJV)',
+    paragraphs: [
+      'Living proof means your experience becomes the evidence of God’s will. When you walk in healing, you are displaying what is already true in the spirit and making it visible, and that is how your life proves His good, acceptable, and perfect will (Romans 12:2). A price was paid to purchase victory for you, and that victory is now your personal belonging: you are not begging God; He has already given it. Hold on to that reality and declare, “Healing is my right; freedom is my right; victory is my right,” even when symptoms confront you. When we pray and do not see an immediate result, we assume God is unwilling, but that is a mistake: He has already done it. Delay is not God waiting or checking whether He should give; it is the enemy trying to make you lose faith and give up. Healing is not about time; it is about what has already been established.',
+      'Vanity is a substitute for reality. When you believe life is solely about money, education, and career, you are proving the reality of vanity. The Bible calls these things vanity because they cannot minister purpose: Solomon had wealth, houses, and every form of pleasure, yet he called them vanity (Ecclesiastes 1:2). Anything that cannot fulfill God’s purpose is a substitute; real life is what ministers God’s will. We often love vanity because it is visible and appeals to our senses, while God’s deeper purpose requires faith.',
+      'The fall of man switched humanity from imaging God’s will to reflecting creature desires; it made humanity void, empty, and blind to what is real, and to have a vain mind is to be blinded to God’s purpose (Ephesians 4:17-18). No man can serve two masters: whatever you prioritize as your reality becomes your master, and if you labor, marry, and live only for vanity, then vanity masters you; you cannot serve both God and Mammon (Matthew 6:24). If your eye is evil, meaning you are blind to God’s will, your whole life is full of darkness (Matthew 6:22-23). You are not alive for food, clothes, or money: the phone is superior to its pouch because it was made for a higher purpose, and if you value the clothes more than the body, or the salary more than the life, you are still living in vanity. Jesus asked, “Is not the life more than meat?” (Matthew 6:25).',
+      'Transformation happens when the mind is renewed and shown the true reality of life: as you learn and obey, your life proves what is real. God’s will is revealed in stages: the good will is exposed through the milk of the Word (1 Peter 2:2); the acceptable will is reached when the body is presented as a living sacrifice (Romans 12:1); the perfect will is the ultimate goal of dominion and perfection (Romans 12:2). Your body was not made just for clothing; it was made for sacrifice. Move from the milk to the spirit, until you reach the dominion life of God’s perfect will.',
+    ],
+    reflection: 'Vanity is anything that does not add a measure of life to you. Is your life proving the reality of God’s will, or proving the reality of money, education and career?',
+    prayer: 'Lord, transform us by the renewing of our minds, that our lives may prove Your good, acceptable, and perfect will. Deliver us from living for the things that cannot minister purpose, and teach us to present our bodies a living sacrifice, moving from the milk of the Word to the dominion life of Your perfect will. In Jesus’ name, Amen.'
+  },
+  {
     date: '2026-10-26',
     display: 'Monday, 26 October 2026',
     title: 'The Succession of the Seed: From Angelic Administration to the Commonwealth of the Nations',
