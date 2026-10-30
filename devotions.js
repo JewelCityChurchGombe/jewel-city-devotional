@@ -1,5 +1,20 @@
 const DEVOTIONS = [
   {
+    date: '2026-10-31',
+    display: 'Saturday, 31 October 2026',
+    title: 'Vessel Unto Honor',
+    anchorText: '“Nevertheless the foundation of God standeth sure, having this seal; The Lord knoweth them that are his. And, Let every one that nameth the name of Christ depart from iniquity.”',
+    anchorRef: '2 Timothy 2:19 (KJV)',
+    paragraphs: [
+      'God knows the one that He will call His own. You may decide to say, “God is my God,” but God knows if He is truly your God. And to depart, you must first be in a place: Christ found everyone in a place, He met all of us in iniquity, and iniquity was our destination and our residence (2 Timothy 2:19). Iniquity is a DNA, the blueprint of our genetics; DNA is not given as a gift, it is transmitted from parents to children, and a DNA test determines who your father truly is. David said, “In sin did my mother conceive me” (Psalm 51:5): we were all kneaded with iniquity in the womb.',
+      'But iniquity did not originate here. The first day iniquity was found, it was in a cherubim, not a human: it came from somewhere else (Ezekiel 28). That being had the right to walk up and down in the midst of the stones of fire, through the dimensions of the heavens where God dwells in the third heaven (Ezekiel 28:14). The stones of fire are the seraphim, the fiery ones, the next hierarchy of angels below the cherubim. “Thou wast perfect” (Ezekiel 28:15): this being’s DNA was originally perfect until iniquity was found in him; the gene mutated, and whatever he fathers carries that mutated DNA. Yet God never created an iniquitous DNA: God can see your DNA and knows which one you are carrying, and God came to father us (2 Timothy 2:19).',
+      'People give birth to children and babies, not sons, and even Jesus was born as a child: it was a child that was born, but the gift of God is a son given, and Jesus was thirty years old before God said, “You are a son.” Son is a transition (Isaiah 9:6). When you are born of God, you have inheritance (John 1:13): financial provision and healing are a child’s inheritance and right, and God does not check for iniquity before He gives a child His bread, because you are His child. But there comes a time when a child must grow and throw away some attitudes and habits. When God says, “I know those that are My own,” He means His sons: “You are My child, but I want you to be My son.” As a son, I am responsible; to be His, I must journey from my former old nature of iniquity, and I depart by not attending to it and by not obeying it (2 Timothy 2:19).',
+      '“But in a great house there are not only vessels of gold and of silver, but also of wood and of earth; and some to honour, and some to dishonour” (2 Timothy 2:20). The great house is the Church, and the people are the vessels: a combination of those that have departed and those that have not departed. Vessels are for service; all vessels in our house serve us, including the bed, the chair, and the spoon, and when we are born again, we are born to serve. Some vessels bring honor to the Master: a king is served with gold and silver, and serving him with a common cup would not please him. The way we serve determines whether we honor, for important guests are served with special, shining plates and spoons, not common ones.',
+    ],
+    reflection: 'You may say God is your God, but He knows if He is truly your God. What is He calling you to depart from, by no longer attending to it and no longer obeying it?',
+    prayer: 'Father, thank You that Your foundation standeth sure and that You came to father us with Your own DNA. Search our hearts as only You can and show us the old nature we must depart from. Bring us from children to sons, matured and responsible in Your house, and make us vessels unto honor, gold and silver in the Master’s service, so that the way we serve honors You. In Jesus’ name, Amen.'
+  },
+  {
     date: '2026-10-30',
     display: 'Friday, 30 October 2026',
     title: 'Idols in the Heart',
