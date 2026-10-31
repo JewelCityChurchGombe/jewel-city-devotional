@@ -1,5 +1,20 @@
 const DEVOTIONS = [
   {
+    date: '2026-11-01',
+    display: 'Sunday, 1 November 2026',
+    title: 'You Cannot Enter Your Destiny Bound',
+    anchorText: '“Christ hath redeemed us from the curse of the law, being made a curse for us: for it is written, Cursed is every one that hangeth on a tree.”',
+    anchorRef: 'Galatians 3:13 (KJV)',
+    paragraphs: [
+      'You cannot fully enter into your destiny while you are bound. A life in chains cannot truly glorify God; it cannot bring the honor that He deserves, because the enemy has restricted you. In Luke 13:16, Jesus observed the woman who was bowed over and said, “Ought not this woman... be loosed?” Consider how you treat your own animals: you loose your cattle and lead them away to water because they have a purpose to fulfill; they need to drink to survive and grow. If we recognize that an animal needs freedom to fulfill its nature, how much more does a child of God need freedom to fulfill a divine destiny?',
+      'Jesus said something amazing regarding this woman’s identity: He did not just call her a woman; He called her a “daughter of Abraham” (Luke 13:16). She is of the seed of Abraham, and the children of Abraham are a people redeemed from curses: God blessed Abraham and all his seed, and as long as you are Abraham’s child, your true inheritance is not struggle or restriction; it is the blessing of Abraham (Galatians 3:14). I have searched my Bible from beginning to end, and I have never read about the bondage of Abraham: I have never found the “curse of Abraham” or the “sickness of Abraham” in the Word; all I find is the blessing. This woman inherited the blessings of her father, yet Satan is wicked: he kept her bound for eighteen years, and for nearly two decades her life could not reflect the glory of God. But Jesus declared her qualified for freedom, not based on her own strength, but because of her identity.',
+      'If you are a son or daughter of Abraham through faith, you have a specific inheritance (Galatians 3:9), and your life must become living proof of these truths. Healing: this is the blessing of Abraham. Prosperity: Abraham was rich in cattle and resources; he was empowered to flourish. Righteousness: Abraham walked with God and was counted righteous (Genesis 15:6). Faithfulness: he knew that when God makes a promise, He is able to fulfill it, no matter how long it takes (Romans 4:21). If you are a child of Abraham, you need to be loosed: no seed of Abraham should remain in bondage.',
+      'This is why Galatians 3:13 is so vital: “Christ hath redeemed us from the curse of the law, being made a curse for us: for it is written, Cursed is every one that hangeth on a tree.” Every sickness is a spiritual curse. Every form of bondage, whether it is cancer, high blood pressure, typhoid, or any disease, is part of that curse. When Jesus hung on that tree, He carried every curse we were meant to carry; He took them so that you would not have to. Because He carried the curse, He can look at you and say, “Woman, thou art loosed”: because you are a seed of Abraham, you must be set free. Now is the time to transition from the curse of the law into the blessing of the promise: let your life reflect the health, the righteousness, and the freedom that belongs to the house of Abraham. You are redeemed!',
+    ],
+    reflection: 'Jesus declared the woman qualified for freedom not by her own strength but by her identity. If you are a seed of Abraham, what bondage are you still carrying that the blessing of Abraham says should not be there?',
+    prayer: 'Father, thank You that Christ has redeemed us from the curse of the law, being made a curse for us. I receive my identity as a seed of Abraham: I refuse every curse of sickness and bondage, for no seed of Abraham should remain bound. Loose me to fulfill my destiny, and let my life reflect the health, the righteousness, and the freedom that belongs to the house of Abraham, that Your name may be glorified. In Jesus’ name, Amen.'
+  },
+  {
     date: '2026-10-31',
     display: 'Saturday, 31 October 2026',
     title: 'Vessel Unto Honor',
