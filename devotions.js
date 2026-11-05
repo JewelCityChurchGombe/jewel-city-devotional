@@ -1,5 +1,20 @@
 const DEVOTIONS = [
   {
+    date: '2026-11-06',
+    display: 'Friday, 6 November 2026',
+    title: 'Dwelling in the House of the Lord: The Pursuit of One Thing',
+    anchorText: '“One thing have I desired of the Lord, that will I seek after; that I may dwell in the house of the Lord all the days of my life.”',
+    anchorRef: 'Psalm 27:4 (KJV)',
+    paragraphs: [
+      'Dwelling in the house of the Lord is about our life here, every single day. That commitment was not made by someone with nothing to do; it was made by the busiest person of his time, a king who had issues and responsibilities, yet his singular desire was to dwell in the house of the Lord (Psalm 27:4). Dwelling in His presence does not mean you abandon your responsibilities. We often think serious commitment to God makes us irresponsible, as if we can either be responsible or be committed to the Lord. That is not true: the two are not in conflict. God never intended for your devotion to take you away from your responsibilities.',
+      'The house of the Lord is not a location; it is a presence. A heart that is disposed can commune with the Lord at all times, even at work. The mark of a believer in their place of responsibility is a touch of excellence, not because they are better than others, but because they do their work with the consciousness of the abiding presence of the Holy Spirit. God said, “Two are better than one” (Ecclesiastes 4:9). He never leaves us; when we involve Him in everything we do, the work becomes less tedious and less stressful, and we receive wisdom and guidance through fellowship.',
+      'This starts with desire, but seeking after is the commitment. It is not enough to say you desire to make God number one; you must back it up with resolution and action. You seek Him in the morning, at night, through messages, and by attending services, and when opportunity arises to fulfill your desire, you give yourself to it. When your heart is set on this one pursuit, your decisions are no longer influenced by your emotions, your needs, your convenience, or your comfort. Jesus said that if you do not love Him more than husband, wife, or children, you are not worthy of Him (Luke 14:26). A desire not followed by action remains just a desire.',
+      'And this journey has no ceiling and no finish line; the deeper you go, the deeper it gets. It transforms you long after every other pursuit has reached its limit. Christians are supposed to be those who redeem the time (Ephesians 5:16): recovering it, not wasting life. Jesus is the cornerstone that never crumbles. He does not demand perfection first; He says, “Come home.”'
+    ],
+    reflection: 'If the test came today, would your decisions be governed by your emotions, needs, convenience, and comfort, or by your one pursuit of Him?',
+    prayer: 'Jesus, bring me to this place where all I want is one thing. One thing have I desired of the Lord, and that will I seek after. Give me a heart disposed to dwell in Your house all the days of my life, at home and at work, until my whole life is lived in Your presence. Amen.'
+  },
+  {
     date: '2026-11-05',
     display: 'Thursday, 5 November 2026',
     title: 'The Building of God: Gain, Reward, and the Christ Blueprint',
