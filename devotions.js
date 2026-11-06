@@ -1,4 +1,19 @@
 const DEVOTIONS = [
+{
+  "date": "2026-11-07",
+  "display": "Saturday, 7 November 2026",
+  "title": "The Place That Feeds You",
+  "anchorText": "“Bring ye all the tithes into the storehouse, that there may be meat in mine house, and prove me now herewith.”",
+  "anchorRef": "Malachi 3:10 (KJV)",
+  "paragraphs": [
+    "Even within ordinary human standards, there is a principle: someone can be far away, not even physically present, but people still collect resources and send them to a specific place, because there is a specific place you give to — the place where you are being fed. This is a scriptural pattern. If somebody feeds you, it is bound on you, it is a law, that you also minister financial substance back to them (1 Corinthians 9:11). Paul said ministers have a right to expect this, though they do not impose it: when they give spiritual substance, they are entitled to receive physical substance in return. One of the ways we obey this is through our tithes and offerings. What matters most is not compassion, but obedience.",
+    "Giving was never meant to be a loss to the giver. It is biblical that the giver is more blessed than the receiver (Acts 20:35); so the one who receives from you does not become more blessed than you — you become more blessed than them. It is also a principle that giving opens doors from heaven; God blesses every giver. A church that understood this late had to reckon with the years it had shortchanged its own people out of their blessing, and the correction came not as a burden but as the recovering of something the giver was owed.",
+    "Tithes are given to the priest, and in the Old Testament the priesthood was centralized: one temple, no confusion about where the tithe was to be brought. The same clarity holds today. Wherever the word is being consistently heard, that is where the tithe is paid — “Bring ye all the tithes into the storehouse, that there may be meat in mine house” (Malachi 3:10). Tithe belongs to the place of consistent feeding, not the place of occasional connection. What you send elsewhere is support or a donation, not a tithe — and even a fellowship attended only online can be the storehouse for a season, when that online place is where you are actually being fed.",
+    "Tradition is not commandment. You must give unto Caesar the things which are Caesar's (Matthew 22:21), but do not take what belongs to God and hand it to Caesar in God's place, calling it by God's name — to substitute a person in the place that belongs to God alone is a form of idolatry. And obedience was never about understanding: we do not always have to understand everything before we obey it. When you submit yourself to a fellowship, obedience to what it asks is obedience before God; disregard is disobedience before God, whatever any other church does differently."
+  ],
+  "reflection": "Is your giving an act of obedience to the God who feeds you, or of sentiment and tradition — and is it going to the place where the word is actually feeding you?",
+  "prayer": "Father, thank You for the place where You have set me to be fed. I choose obedience over compassion and over understanding. Deliver me from giving to please tradition or to please men, and keep what belongs to God in the place that belongs to God alone. Make me a giver, that I may not be shortchanged of my own blessing, and let my giving open the windows of heaven over my life, in Jesus' name. Amen."
+},
   {
     date: '2026-11-06',
     display: 'Friday, 6 November 2026',
