@@ -1,5 +1,20 @@
 const DEVOTIONS = [
 {
+  "date": "2026-11-10",
+  "display": "Tuesday, 10 November 2026",
+  "title": "The People That Do Know Their God",
+  "anchorText": "“And such as do wickedly against the covenant shall he corrupt by flatteries: but the people that do know their God shall be strong, and do exploits.”",
+  "anchorRef": "Daniel 11:32 (KJV)",
+  "paragraphs": [
+    "The troubles we face in this present age will not reduce; tribulation is inevitable. Yet the concept of the rapture is not about escape: if the Church were to vanish in fear, it would suggest that God is weak or afraid of Satan. This is God's opportunity to show forth His power. In the deepest darkness, God will shine His light most brilliantly. Daniel prophesied that while some will do wickedly and be corrupted, those who truly know God will rise in strength and manifest His power (Daniel 11:32). To “do exploits” is not merely to prophesy; it is to act. Exploits are the direct result of strength gained through spiritual knowledge. True strength does not come from emotion or intellect, but from knowing God deeply.",
+    "Corruption has become normalized in modern society, and this accelerated increase will usher in the “man of peace”: he will not come initially as an overt enemy of Christ, but as another Christ, promising peace and solutions to global strife. Many will follow his ways, mistaking deception for deliverance, because he corrupts through flattery that exalts the ego of man. Satan flatters through money, power, and self-centered purpose, whispering, “You can be God; life should be about you.” In this hour, much preaching wastes precious time, flattering man's ego and draining the spiritual economy. But those who know their God will not be distracted: they will be strong, they will do exploits, they will shine in the darkness. Eternal life is to know the only true God (John 17:3). It is entirely possible to know about Him without actually knowing Him, and the only divine protection against the deception of the enemy is intimate knowledge of God.",
+    "We cannot come to know God through intellect alone (Isaiah 55:8). If knowing Him were dependent on human intellect, God would be partial; one can attend seminary or church diligently and still remain without true knowledge of Him. “Eye has not seen, nor ear heard, neither have entered into the heart of man the things which God hath prepared for them that love Him. But God hath revealed them unto us by His Spirit: for the Spirit searcheth all things, yea, the deep things of God” (1 Corinthians 2:9-10). Intellectual knowledge is not revelation. Understanding is the work of the soul; experience is the work of the spirit. The mind rationalizes; the spirit discerns. To know God, two components are indispensable: my spirit and God's Spirit.",
+    "As believers grow, the Word of God cuts between soul and spirit (Hebrews 4:12). To know God sincerely, one must invest time and discipline. External noise, constant distractions, and digital clutter cloud the human spirit; prayer sanitizes the spirit. You cannot be spiritual without deliberate discipline. Intimacy with God must be built daily in private communion, not just during corporate church gatherings. Christianity is not a religion; it is a living, continuous relationship with the Almighty."
+  ],
+  "reflection": "Do I truly know God, or only know about Him? Is my strength coming from emotion and intellect, or from knowing Him deeply enough to do exploits?",
+  "prayer": "Father, I refuse to settle for head knowledge. Open my spirit to Your Spirit, that I may know You intimately and not merely know about You. Deliver me from the flattery of this hour and from every voice that exalts man above You. Sanitize my spirit in prayer, and build my intimacy with You daily in private communion, until I am strong and do exploits, shining in the darkness, in Jesus' name. Amen."
+},
+{
   "date": "2026-11-09",
   "display": "Monday, 9 November 2026",
   "title": "The Pursuit of True Spiritual Life in Christ: Spiritual Hunger and the Danger of Passivity",
