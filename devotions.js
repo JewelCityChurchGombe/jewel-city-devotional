@@ -1,5 +1,19 @@
 const DEVOTIONS = [
 {
+  "date": "2026-11-11",
+  "display": "Wednesday, 11 November 2026",
+  "title": "Integration and Transformation",
+  "anchorText": "“For every one that useth milk is unskilful in the word of righteousness: for he is a babe.”",
+  "anchorRef": "Hebrews 5:13 (KJV)",
+  "paragraphs": [
+    "Spiritual knowledge alone does not make a person spiritual. The mind can carry spiritual truths and still remain untransformed, because we have not yet integrated those truths into our daily living (Hebrews 5:13). By default, we respond to life from the soul, even when equipped with spiritual knowledge: when faced with fear or grief, we tend to follow those emotions and fall into despair. That reveals that we have not yet learned to apply what we know to real-life situations. God does not want us to be mere storage for spiritual information.",
+    "We must keep practicing intentional obedience until it becomes instinctive. Denying the impulses of our mind and emotions is the essence of the cross: not because we do not feel them, but because we choose to submit to the will of God (Luke 9:23). To become truly spiritual, we must surrender our thoughts and emotions to Him. It is the authority of God that transforms knowledge into lasting change.",
+    "A spiritual person is not necessarily a holy person, but one who continually repents and conforms to God's will, day by day. Spirituality is not a fixed state; it is a consistent lifestyle we choose to maintain."
+  ],
+  "reflection": "Is my spiritual knowledge integrated into daily living, or am I only storage for information I have never obeyed?",
+  "prayer": "Father, I refuse to be mere storage for spiritual information. Teach me to practice intentional obedience until it becomes instinctive, and to deny the impulses of my mind and emotions as I submit to Your will. Keep me repenting and conforming to You day by day, until the truths I carry have become the life I live, in Jesus' name. Amen."
+},
+{
   "date": "2026-11-10",
   "display": "Tuesday, 10 November 2026",
   "title": "The People That Do Know Their God",
