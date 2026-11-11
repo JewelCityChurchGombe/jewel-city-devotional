@@ -1,5 +1,20 @@
 const DEVOTIONS = [
 {
+  "date": "2026-11-12",
+  "display": "Thursday, 12 November 2026",
+  "title": "Living from the Spirit: Warfare, Rest, and Divine Communion",
+  "anchorText": "“Finally, my brethren, be strong in the Lord, and in the power of his might.”",
+  "anchorRef": "Ephesians 6:10 (KJV)",
+  "paragraphs": [
+    "Victory comes from rest. Our warfare is not to gain victory; it is to enforce the victory already won for us through Christ (Ephesians 6:10). We do not battle to determine who will win; we battle when we have not yet entered the place of rest. We do not fight power against power; we war from a place of authority. Ephesians 6 instructs us to be strong in the Lord, not in our struggle, not in our prayer, not in our own might. He has power, but it is subject to God's authority: dunamis is subject to exousia.",
+    "Prayer awakens our consciousness to this authority; it does not generate power, it only reveals it. When we face issues, our faith is shaken, but prayer restores confidence, for Satan's greatest strategy is confusion. Much of our struggle is not against Satan, but against God's divine intention versus our own: “My thoughts are not your thoughts, neither are your ways my ways” (Isaiah 55:8). God's intention always exceeds the limitations of our minds. What man lost in Eden was not provision but relationship, and through the New Covenant that relationship was restored, so that we now call Him Father (Romans 8:15).",
+    "What your mind is minding determines whether it is carnal or spiritual. You can have spiritual knowledge in your head, yet your mind may still be dominated by impulses and emotions. But the weapons of our warfare are mighty through God to the pulling down of strongholds, thoughts that oppose Christ (2 Corinthians 10:4-5), and we have the mind of Christ (1 Corinthians 2:16).",
+    "Your spirit is the most holy place; God dwells in the most holy. The conscience accuses or excuses us according to the law written on our hearts (Romans 2:15): God once wrote on tablets of stone, but now He writes within us. Communion is possible because the Father has restored it, and He can never violate His promise: “I will never leave you, nor forsake you” (Hebrews 13:5). So we are not to live by emotions, which stir and fade; when we walk by the spirit, we subdue the flesh (Galatians 5:16). Living from the Spirit is truly beautiful."
+  ],
+  "reflection": "Am I fighting to gain a victory Christ already won, or enforcing His victory from the place of rest?",
+  "prayer": "Father, I thank You that the victory is already won through Christ. Teach me to war from a place of rest and authority, not from striving. Align my thoughts with Your thoughts, and let Your Word become life within me, not mere knowledge in my head. Help me live from my spirit, keep my conscience delicate and discerning, and refuse every lingering accusation that is not from You, in Jesus' name. Amen."
+},
+{
   "date": "2026-11-11",
   "display": "Wednesday, 11 November 2026",
   "title": "Integration and Transformation",
