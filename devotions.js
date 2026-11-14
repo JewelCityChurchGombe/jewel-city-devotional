@@ -1,5 +1,20 @@
 const DEVOTIONS = [
 {
+  "date": "2026-11-15",
+  "display": "Sunday, 15 November 2026",
+  "title": "The Courtroom of Heaven: Understanding Righteousness and Judgment",
+  "anchorText": "“Clouds and darkness are round about him: righteousness and judgment are the habitation of his throne.”",
+  "anchorRef": "Psalm 97:2 (KJV)",
+  "paragraphs": [
+    "Righteousness cannot be attained without judgment: whatever the Father does, He does within the framework of justice, never violating His own judicial system (Psalm 97:2). Satan took humanity as prey and captive, and it was a lawful captivity; he did not act illegally, for he said to Jesus, “This territory was given to me.” He was once a lawyer, an advocate, and he still searches for loopholes to use against you, to hinder your blessings and the divine will of God (1 Peter 5:8). Some circumstances in our lives are permitted, while others are rooted in illegality; if we do not understand the law, we risk becoming unlawful captives. Our inability to conquer Satan often stems from a lack of knowledge, especially of God's legal system (Hosea 4:6). The Bible itself is a legal document, and all of us will one day stand as advocates and enter the court of heaven.",
+    "Your strength lies in knowing God: that He is the Lord who exercises lovingkindness, judgment, and righteousness (Jeremiah 9:24). This is not mere information; when you know His lovingkindness it is not just in your head, for you experience His judgment and righteousness through communion with His Spirit (Jeremiah 22:3). The law of God is revealed through intuition and the judgment process of the conscience, and what binds us to Satan was a legal case. If a covenant of sin is made, it becomes a bloodline pattern, and the enemy uses these patterns to hinder God's purpose for your life. Knowing God makes you strong; it is essential for winning your case against the enemy.",
+    "Everything on earth is a copy of what exists in heaven. The books are the yardstick for judgment, because they contain your basic purpose, your predestination; each person has their own book (Revelation 20:12). Anyone who acts contrary to what is written in their book has failed. So how do you win your case in court? You make a defense. Jesus knew that unless He canceled the legal violations of sin, grace could not flow: He understood that there were ordinances and trespasses against us, and what He did was blot them out (Colossians 2:14). Everything we once were in Adam was blotted out. A case may stand in your life if you are ignorant of your destiny.",
+    "Prayer is a judicial term: the judge asks, “What do you pray for?” Before God's court, He asks, “What do you want?” You must bring your case, contending against what the enemy holds against you (Luke 18:1-8). Your ability to understand what is happening in the court shapes your prayer life; praying in tongues is powerful, but it does not automatically cancel legal cases. You must enter the court, and what gives us access is the blood of Jesus (Hebrews 10:19). As our Advocate, the Holy Spirit reveals unresolved matters in the bloodline and teaches us how to present our case before the court of heaven. And the end of the case is sure: “And God shall wipe away all tears from their eyes” (Revelation 21:4)."
+  ],
+  "reflection": "When I pray, do I bring my case before the court of heaven, standing on what Jesus has done?",
+  "prayer": "Father, open my eyes to Your justice system and teach me Your law. Blot out every ordinance and trespass standing against me through the blood of Jesus. Holy Spirit, my Advocate, reveal every unresolved matter in my bloodline and teach me to present my case before the court of heaven, until my name is found in the Book of Life and every tear is wiped away. In Jesus' name. Amen."
+},
+{
   "date": "2026-11-14",
   "display": "Saturday, 14 November 2026",
   "title": "The Children's Bread: Healing and the Leading of the Spirit",
