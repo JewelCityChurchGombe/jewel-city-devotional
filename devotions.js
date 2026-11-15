@@ -1,5 +1,20 @@
 const DEVOTIONS = [
 {
+  "date": "2026-11-16",
+  "display": "Monday, 16 November 2026",
+  "title": "The Father, the Friend, and the Judge",
+  "anchorText": "“Men ought always to pray, and not to faint.”",
+  "anchorRef": "Luke 18:1 (KJV)",
+  "paragraphs": [
+    "There is kingdom against kingdom: a war of dominions, a clash of justice systems. Sin, transgression, and iniquity make us legal subjects of Satan's kingdom, and his government thrives on injustice (Ecclesiastes 3:16-18; Ecclesiastes 5:8). Satan builds cases against the righteous and puts them on trial; though qualified for blessings, hidden faults can disqualify us. But God, in His mercy, offers the stairs of righteousness: while Satan puts us on trial, God judges what is putting us on trial, and His judgment leads to salvation, not condemnation. The Holy Spirit comes to reprove and convict, not to condemn but to reveal what is right (John 16:8); the moment we admit, transformation begins, and it was a divine exchange: He took our taintedness and gave us His purity, a righteousness Satan cannot accuse.",
+    "Jesus taught us to pray, and deepened that teaching in Luke 18, revealing different relational pathways through which we approach God (Luke 11:2-4). As a child to a Father, we come to God in secret, speaking to a loving Father: intimate, personal, hidden from public view, yet its results are made manifest openly (Matthew 6:5-6). As a friend to a friend, we approach God with persistence, trust, and boldness, not for ourselves but on behalf of others: the prayer of intercession, standing in the gap like Abraham did for Lot (Luke 11:5-8; Genesis 18:23-32). God honors the prayers of those who plead for others, and the prosperity of a place is tied to the presence of the righteous; when they are removed, darkness takes dominion.",
+    "When answers delay, why do we often give up? Some delays are divinely orchestrated by God; others are legal: Satan has built a case, and no verdict has been passed because we have not brought the matter to court. Jesus teaches that we can approach God as a Judge, and His elect have the right to come before Him, and He will answer speedily (Luke 18:7-8). We must ask why we are not progressing, because these issues are often legal: if Satan has built a case, God, being just, will not override it. You cannot approach Him as a Father when the matter requires a Judge; as a Father He may desire to give, but He cannot, because the issue is judicial. This is not about sin; Jesus has already handled that (1 John 2:1).",
+    "In church we often treat sin, transgression, and iniquity as the same, but Scripture separates them (Psalm 32:1-4): sin is falling short of God's standard; transgression is rebellion, crossing boundaries; and iniquity is the history of sin that has not been dealt with, traveling through bloodlines (Deuteronomy 5:9). In 2 Samuel 21:1-2, David enquired of the Lord about a famine and learned it was the consequence of Saul's breach of covenant with the Gibeonites; Saul was long gone, but heaven had recorded the injustice, and the land suffered. Ignorance is not immunity, for Satan is not merely attacking; he is legally afflicting people. But where Satan builds cases, God raises intercessors: you are not just a believer, you are a legal representative of heaven, called to enforce righteousness in your household, your region, and your generation."
+  ],
+  "reflection": "When answers delay, do I recognize when the matter is legal and bring it before the Judge?",
+  "prayer": "Father, I come to You in the pathway this matter requires. I receive Your judgment that saves and not condemns; expose every hidden fault and every bloodline case, and as I admit and repent, walk me into the freedom Jesus has already won. Teach me to stand in the gap for my household, my region, and my generation, as a faithful friend and a legal representative of heaven. In Jesus' name. Amen."
+},
+{
   "date": "2026-11-15",
   "display": "Sunday, 15 November 2026",
   "title": "The Courtroom of Heaven: Understanding Righteousness and Judgment",
