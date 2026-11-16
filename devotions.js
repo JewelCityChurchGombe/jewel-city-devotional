@@ -1,5 +1,20 @@
 const DEVOTIONS = [
 {
+  "date": "2026-11-17",
+  "display": "Tuesday, 17 November 2026",
+  "title": "Becoming Christ: Living from Your True Identity",
+  "anchorText": "“For ye are dead, and your life is hid with Christ in God.”",
+  "anchorRef": "Colossians 3:3 (KJV)",
+  "paragraphs": [
+    "We are not under the law: if we attempt to fulfill one law, we are obligated to fulfill all the laws of Moses (Galatians 5:3). Jesus has already fulfilled the law for us, having been made our righteousness; fulfilling the law by our own effort only makes us feel righteous. Being a Christian means becoming conscious of a new identity (Romans 6:8): we once lived by an identity and personality that shaped all our thoughts and decisions, but now we must be aware of our identity in Christ. The death of Jesus disarmed the mind and brain from controlling us through satanic influence, through circumstances, suggestions, ideas, and imaginations, and dealing with that former identity renders sin powerless, because its power flows through the old man.",
+    "Fully immerse yourself in the Lord (Romans 13:14): do not entertain thoughts from the old identity, for they will still try to drive your life, and if you do not know how to divide and discern by the sword of the Spirit, you will be misled. We must learn to be ignorant of the old man's identity and adopt the reality that flows from the Spirit: my old identity has been crucified with Christ, and I now live a new life, connected to another source, the sap from the vine (Galatians 2:20; John 15:4-5). The Anointed One, who is the vine, lives through my spirit, and there is now a union between me and Jesus. You must grow from living the Christ life to becoming a Son.",
+    "We often try to undo the power of sin by setting our minds against it, then wonder why we keep falling: we set our minds, not divine authority, and divine authority comes from a higher life. Those motivated by the flesh pursue what benefits them; those who live by the impulses of the Holy Spirit are motivated to pursue spiritual reality (Romans 8:5). Give yourself to the resetting of the mind, and the only thing that can do that is the gospel: Satan fills your thoughts with distractions, and what you fill your mind with, you begin to act on. The spirit knows spirit (Ephesians 1:15-16): God is spirit, He can only be known spiritually, and you become a child of God when you decide to walk by the Spirit; the mature are those who respond to the impulses of the Spirit.",
+    "When old emotions rise, remind yourself that you are the planting of the Lord (Psalm 92:13): you do not need to cast or bind anything, simply believe, because it was already cast and bound long ago. When the enemy reminds you of your past and you accept it, he knows you do not truly understand who you are, and when identity is lost, faith cannot operate; no power or authority can flow from you. Your true life is hidden in Christ (Colossians 3:3): live as one who has died to worldly desires, including the pursuit of wealth and ambition. The question is not “What can I get?” but “What am I becoming?” There is no rich Christ, poor Christ, most anointed Christ, or evangelistic Christ: to be Christ is more than enough. May God reset our minds."
+  ],
+  "reflection": "What am I becoming? Am I living from my identity in Christ, or from the old identity that shaped me?",
+  "prayer": "Lord Jesus, I renounce the old identity and all it drove me to do. Immerse me in Yourself; set my mind on the new identity and reset it by Your gospel. I believe my old man was crucified with You and my life is hidden in Christ in God. Teach me to walk by the Spirit and respond to His impulses, that I may become who I already am in You. In Jesus' name. Amen."
+},
+{
   "date": "2026-11-16",
   "display": "Monday, 16 November 2026",
   "title": "The Father, the Friend, and the Judge",
