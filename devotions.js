@@ -1,5 +1,20 @@
 const DEVOTIONS = [
 {
+  "date": "2026-11-18",
+  "display": "Wednesday, 18 November 2026",
+  "title": "Spiritual Hunger and the Danger of Passivity",
+  "anchorText": "“Moreover, brethren, I would not that ye should be ignorant, how that all our fathers were under the cloud, and all passed through the sea.”",
+  "anchorRef": "1 Corinthians 10:1 (KJV)",
+  "paragraphs": [
+    "One of the greatest weapons the enemy uses against us, especially after we have tasted a measure of God's glory, is not always blatant sin but a subtle passivity. God does not release His substance without desire; He does not entrust His precious things to those who are not yearning for them. If we treat the deep things of God casually, we will never become candidates for them: the enemy wants us to commonize sacred things, reducing our engagement with God to mere duty instead of desire. With God there is no stagnation; we are either advancing or retreating (1 Corinthians 10:1). Just as the first symptom of physical sickness is loss of appetite, spiritual sickness begins when the things of God no longer excite us or bring us joy.",
+    "Our spiritual ancestors had encounter after encounter, experience upon experience, yet their appetite diminished (1 Corinthians 10:1). They were baptized into Moses and lived in the miraculous, yet many of them did not please God: these things were written as examples for us, a warning (1 Corinthians 10:11). We can start well, eating and drinking from the cup, yet turn to idolatry; the Israelites were slaves in Egypt, but once they gained freedom, they turned to idols, forgetting where God brought them from. Like Israel in the wilderness for forty years, we can move yet go nowhere in the Spirit, going in circles of programs while the fire of our first pursuit fades.",
+    "There is milk, meat, and strong meat, and Jesus followed a divine principle: He broke the bread before offering the drink, for the blood is life (Matthew 26:28). The promises of God are hidden in the life of Jesus: you do not take the cup until you have eaten the meat, and you cannot walk in the New Testament life, the life of the blood, until you have partaken of the broken body. Every good gift and every perfect gift is from above (James 1:17): there are two gifts, the good gift, the life of Christ, and the perfect gift, the life of the Son of God, abundant life (John 10:10). The good gift qualifies us for the perfect gift; much more, being justified by His blood, we shall be saved (Romans 5:8-9).",
+    "If Sunday is the only time we engage with God, we are living a religious life. The war now is against apathy: church feels boring and time-consuming, we give energy to play and not to prayer, and we say it is inconvenient, but the truth is we have lost our hunger. Yet James exhorts us: count it all joy when you fall into various trials (James 1:2); most trials come because of our faith, because we are trying to live out what we have learned so we can be perfected. When things are not working out, we must reach a point where nothing affects our commitment, focus, and devotion: that is victory."
+  ],
+  "reflection": "Have the things of God become ordinary to me, or am I still pursuing Him with hunger?",
+  "prayer": "Father, forgive my passivity; I refuse to commonize what cost You everything. Restore my hunger and my fervency; deliver me from religious routine and from treating You as a soothsayer. I count it all joy when trials come, for they are working perfection in me. Teach me to partake of the broken body before the cup, and keep me pressing into a higher intensity of You. In Jesus' name. Amen."
+},
+{
   "date": "2026-11-17",
   "display": "Tuesday, 17 November 2026",
   "title": "Becoming Christ: Living from Your True Identity",
