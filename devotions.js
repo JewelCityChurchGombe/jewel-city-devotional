@@ -1,5 +1,20 @@
 const DEVOTIONS = [
 {
+  "date": "2026-11-19",
+  "display": "Thursday, 19 November 2026",
+  "title": "The Faith That Pleases God",
+  "anchorText": "“But without faith it is impossible to please him: for he that cometh to God must believe that he is, and that he is a rewarder of them that diligently seek him.”",
+  "anchorRef": "Hebrews 11:6 (KJV)",
+  "paragraphs": [
+    "There comes a point in life when the Bible declares that without faith it is impossible to please God; there is absolutely nothing we can do to please Him outside of faith (Hebrews 11:6). Faith is the vehicle through which we please God, because God is Spirit. As the Word of God continues to come to us, we begin to realize that what we once thought was faith were merely things that resembled faith: the righteousness of God is revealed through the gospel, from faith to faith (Romans 1:17). Faith must be revealed to us; it is the gateway to supernatural life. Before we received the revelation of faith, what kept us was faith in God, mostly focused on provision and serving as preservation; but the faith for living ushers us into spiritual life, for faith in God alone cannot take us far in God.",
+    "The Word of Righteousness requires a stable mind: a double-minded man is unstable in all his ways (James 1:8), and the soul that draws back displeases Him (Hebrews 10:38). Darkened understanding is a greater evil than the manifest sins of the flesh; it creeps in quietly and distorts our perception of truth, so our minds must remain undivided, single-minded in the pursuit of righteousness and spiritual life. We walk by faith, not by sight (2 Corinthians 5:7), and faith comes by hearing, and hearing by the Word of God (Romans 10:17): if you want to be a spiritual person, you must never forsake hearing. Consistency in hearing and doing brings about the life of the Spirit, for the just shall live by faith.",
+    "The fruit lies in Abraham's kind of faith, not in Thomas's: the blessing is for those who have not seen, yet have believed (John 20:29). To walk in the life of faith, there is no plan: Abraham had no plan for his journey; he depended entirely on God, for faith comes by hearing and hearing by the Word of God. God wants us to be exercisers of faith, and exercise does not happen in the comfort of your home; it happens in the field. Do not be afraid to do what God asks you to do: calculations can kill faith. Now is the time to exercise faith without calculations.",
+    "It is in consistently doing what Scripture says that we truly bear the fruits of faith: faith is not passive belief, it is a way of life that opens our eyes to the unseen, granting not physical vision but a spiritual clarity that reveals Christ in all things. The blessedness we seek is not found in what we see with our eyes, but in what we perceive through faith. To whom much is given, much is expected (Luke 12:48): the measure of our stewardship lies not in what we have received, but in how we have responded."
+  ],
+  "reflection": "Is my faith the Abraham kind that depends entirely on God, or the Thomas kind that needs to see first?",
+  "prayer": "Father, reveal faith to me from faith to faith, that I may please You. Keep my mind undivided and stable in the Word of Righteousness; deliver me from double-mindedness and darkened understanding. I will never forsake hearing; I choose to exercise faith without calculations, depending on You entirely, as Abraham did. Let the fruit of the walk of faith manifest in my life, and let my stewardship answer to how I have responded to what You have given. In Jesus' name. Amen."
+},
+{
   "date": "2026-11-18",
   "display": "Wednesday, 18 November 2026",
   "title": "Spiritual Hunger and the Danger of Passivity",
