@@ -1,5 +1,20 @@
 const DEVOTIONS = [
 {
+  "date": "2026-11-20",
+  "display": "Friday, 20 November 2026",
+  "title": "Entering the Ark: The Death That Leads to Life",
+  "anchorText": "“But as the days of Noe were, so shall also the coming of the Son of man be.”",
+  "anchorRef": "Matthew 24:37 (KJV)",
+  "paragraphs": [
+    "As it was in the days of Noah, so shall the coming of the Son of Man be (Matthew 24:35; Matthew 24:37). Life was normal; Noah preached, but they did not listen. Then the flood came and took them away while Noah was inside the ark: the unrighteous were taken, not the righteous. Those who will be raptured are those who entered the ark, not those who were taken away. The ark in Noah's time was physical; today it is spiritual, and it is hidden. I do not need to wait for the flood before I enter the ark: now is the time to enter, so that when the last day comes, it will find me inside, for when the flood comes, it knows who is inside and who is not.",
+    "The sounding of the last trumpet is a mystery (1 Corinthians 15:51-52), and its major work is resurrection. Resurrection is a journey: first, I must know Him and the power of His resurrection (Philippians 3:10), for knowing that power is having that power. Anyone who enters the ark has the power of resurrection, a quickening life, the life of Christ (Romans 8:11). Then I must participate in His suffering: participation in suffering is death, laying down the life that can stop me from resurrecting, until I am conformed to His death. When I come into conformity with His death, I become a candidate for resurrection; Paul said that by all means he wants to attain it, which means he does not yet have it (Philippians 3:11).",
+    "It takes death to deal with death: in Adam we inherited death (Romans 5:12), but in Jesus we are inheriting life (Romans 5:17). Jesus went and obtained death, called the cross, and gave us that death to deal with the inherited death (Hebrews 2:14); when I use the death of Jesus, I kill the death of Adam and receive the inheritance of life, for Jesus gave me life by first giving me His death (John 12:24). When I was baptized into Jesus, I was baptized into His death, not into life (Romans 6:3-4); Noah was baptized by the same flood that destroyed, and it is in this baptism that we are saved (1 Peter 3:21). The only qualification for rapture is death: whosoever holds his life shall lose it, and he who loses his life for My sake shall find it (Matthew 10:39).",
+    "When you were born again, your spirit was saved (John 3:6); when you do righteousness, your soul is being saved (James 1:21); but the body is not saved, for its salvation is that it will be changed (1 Corinthians 15:53). We are not meeting Him on earth: we are meeting Him in the air (1 Thessalonians 4:17), the headquarters of Satan's dominion (Ephesians 2:2), so catching up with Jesus in the air is going on assignment to dethrone him. The ark is actually Christ (Colossians 3:3): we must exit, die, and walk into the world of the Holy Ghost; this is a death that has been given to you."
+  ],
+  "reflection": "Am I entering the ark now by dying to this world, or waiting for the flood before I move?",
+  "prayer": "Lord Jesus, You are the ark; I enter You now, not when the flood comes. I receive Your death that overpowers the death I inherited from Adam, and I refuse to hold my life tightly. Conform me to Your death, that I may become a candidate for the resurrection at the last trumpet. Save my soul out of this world, and let the last day find me inside. In Jesus' name. Amen."
+},
+{
   "date": "2026-11-19",
   "display": "Thursday, 19 November 2026",
   "title": "The Faith That Pleases God",
