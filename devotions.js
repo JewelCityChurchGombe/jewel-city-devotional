@@ -1,5 +1,20 @@
 const DEVOTIONS = [
 {
+  "date": "2026-11-23",
+  "display": "Monday, 23 November 2026",
+  "title": "The Spiritual Separation and Contention",
+  "anchorText": "“Sanctify the LORD of hosts himself; and let him be your fear, and let him be your dread.”",
+  "anchorRef": "Isaiah 8:13 (KJV)",
+  "paragraphs": [
+    "We are in a time of spiritual separation and intense contention against genuine faith: this season demands seriousness in one's faith, otherwise one risks being overwhelmed. The only thing that should concern or scare us is God not having His way in our lives: sanctify the Lord of hosts himself, and let him be your fear, and let him be your dread (Isaiah 8:13). Fearing Him inspires a desire to please Him through obedience, and He then becomes a Sanctuary, an abiding, dwelling, and hiding place for those who live in His ways. But He can also become a Rock of Offense if His ways challenge or alter your own, causing you to stumble and miss His intended purpose: the Lord is either a sure Rock for you or a Rock of Offense.",
+    "The spiritual realm is superior and governs the natural; dependence on natural strength makes one a victim. Spiritual insight is not merely understanding God's words but seeing the scripture as your true, immediate reality, especially when faced with real-life situations. We are like someone who looks in a mirror, sees their true self, a new creation, but then walks away and reverts to their old ways (James 1:23-25). Faith is the vision of your reality in the spirit: when the Word comes, we glance at this spiritual reality but often forget it as we walk through the world, reverting to the vision of who we are in the natural.",
+    "You cannot be anything but Christ to be in God: Jesus Christ is the only being permitted to be in God, therefore to be in God, you must be in Christ. We often forget our reality in Christ when situations arise, acting as if God is our Father but incapable of handling our physical life. Abiding is crucial: a branch can be in the vine yet not abide, and a Christian can be saved but not abide (John 15:4). Abiding is achieved by keeping His commandments: if ye keep my commandments, ye shall abide in my love (John 15:10). Jesus Himself abode in the Father by doing only what the Father commanded and said (John 12:49-50), and he that keepeth his commandments dwelleth in him, and he in him (1 John 3:24).",
+    "Living in Jesus means living in love, and the protocol of love enables abiding: by suffering long and being kind, I am abiding; by not envying and celebrating my brother, I am abiding (1 Corinthians 13:4). Pride and vaunting yourself break spiritual rank, and charity is hiding yourself: even in testimony, the focus must be on God's glorification, not self-exaltation. If you bring a prophetic message, you must submit it to judgment within the assembly (1 Corinthians 14:29), for the message is not your own; it is God's. True greatness is not found in outward display, but in what one possesses and who dwells within them: the conviction must be, greater is he that is in me than he that is in the world (1 John 4:4). This internal reality is the only source of genuine spiritual authority, not external self-exaltation."
+  ],
+  "reflection": "When situations arise, do I live from my reality in Christ, or do I revert to the vision of who I am in the natural?",
+  "prayer": "Lord, sanctify the Lord of hosts himself in my heart; let You alone be my fear and my dread. Give me eyes to see Your Word as my true reality, and grace to keep Your commandments, that I may abide in You and You in me. Keep me from pride and self-exaltation; teach me the protocol of love, to suffer long and be kind, until my confidence rests in this alone: greater is He that is in me than he that is in the world. In Jesus' name. Amen."
+},
+{
   "date": "2026-11-22",
   "display": "Sunday, 22 November 2026",
   "title": "Beyond Carnal Desires: Yielding to the Spirit",
