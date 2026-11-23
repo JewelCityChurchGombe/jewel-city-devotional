@@ -1,5 +1,20 @@
 const DEVOTIONS = [
 {
+  "date": "2026-11-24",
+  "display": "Tuesday, 24 November 2026",
+  "title": "Salvation: God's Ultimate Gift and Eternal Agenda",
+  "anchorText": "“Behold, God is my salvation; I will trust, and not be afraid: for the LORD JEHOVAH is my strength and my song; he also is become my salvation.”",
+  "anchorRef": "Isaiah 12:2 (KJV)",
+  "paragraphs": [
+    "Sin introduced a craving for basic needs: poverty and sickness gained access only through sin. When Adam ate from the tree, he died, not instantly in the body, but first in the spirit, and this spiritual death triggered a chain reaction that eventually affected the body and all its needs; over time man's lifespan deteriorated, and in Genesis 6:3 God reduced it to 120 years. Death began within, not outside. Adam was not the final design for man; Jesus Christ is. God is not opposed to financial growth; it is the love of money He warns against, yet He will never prioritize our earthly needs above His eternal plan.",
+    "Salvation is not merely a recovery plan for fallen man: it pleased God through the foolishness of preaching to save those who believe (1 Corinthians 1:21). Preaching is God's chosen channel to deliver salvation; if I reject it, I reject the gift. Salvation is not a reaction to sin; it was always God's ultimate agenda: even if man had never sinned, the Lamb would still have come. As Isaiah 12:2 declares, He is our salvation, and there is nothing greater that God desires to give us than salvation. Titus 1:2 speaks of the hope of eternal life, which God, who cannot lie, promised before the world began, and 2 Timothy 1:9 affirms that God saved us and called us with a holy calling, not according to our works, but according to His purpose and grace given in Christ Jesus before time began.",
+    "Adam was godly, but godliness alone was not the ultimate: we must become godly because only a godly man can receive more. 1 Peter 1:18 reminds us that we were not redeemed with corruptible things like silver or gold: material blessings are good, but they cannot redeem us, and no amount of wealth can make us godly. The question is: do we use what we have to become godly? 1 Timothy 6:17 warns us not to trust in uncertain riches but to lay hold of the true riches God offers, and 1 Timothy 6:8 teaches that food and clothing are enough: if salvation is your goal, your resources become instruments. Philippians 3:20 says our conversation is in heaven: the love of money is a vain conversation that expires.",
+    "1 Corinthians 12:31 urges us to covet earnestly the best gifts, but God wants to show us a more excellent way: charity, a heavenly substance that enables us to live a heavenly life. 1 Corinthians 13 reveals that prophecy, knowledge, and miracles are not the most excellent way; even faith that moves mountains is not enough. 1 Corinthians 13:13 says faith and hope are nothing without charity. Charity suffers long, and long-suffering is not patience: patience comes from circumstances, but long-suffering comes from God and deals with people, not things. If no one offends you, how will you receive long-suffering? Use your situation to gain life, and your soul will be rich with it."
+  ],
+  "reflection": "Am I using what I have to become godly, or trusting in uncertain riches instead of laying hold of the true riches?",
+  "prayer": "Father, thank You that salvation was never a reaction to my sin but Your plan before the world began. Deliver me from trusting in uncertain riches; make me godly and teach me the more excellent way of charity. Give me Your long-suffering in every offence and every uncomfortable place, until my soul is rich with Your life. In Jesus' name. Amen."
+},
+{
   "date": "2026-11-23",
   "display": "Monday, 23 November 2026",
   "title": "The Spiritual Separation and Contention",
