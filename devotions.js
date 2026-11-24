@@ -1,5 +1,20 @@
 const DEVOTIONS = [
 {
+  "date": "2026-11-25",
+  "display": "Wednesday, 25 November 2026",
+  "title": "Thanksgiving: The Way Up to God",
+  "anchorText": "“Seven times a day do I praise thee because of thy righteous judgments.”",
+  "anchorRef": "Psalm 119:164 (KJV)",
+  "paragraphs": [
+    "Giving thanks to the Lord is a mystery that we are yet to clearly understand. David understood that praise is actually thanksgiving: seven times a day do I praise thee because of thy righteous judgments (Psalm 119:164). How many times do we truly thank God? It is something we ought to do daily: thanksgiving is both a mystery and a law of God, and we are commanded to give it, so the prayer we should pray more often is the prayer of thanksgiving. God has been good to us, yet many times we fail to see it because Satan blinds us to His goodness.",
+    "There are three categories of people in thanksgiving. Some do not give thanks at all, not because they have nothing to thank God for, but because they fail to recognize His hand: the rich man blessed with abundance felt he had provided for himself, forgetting that all came from God; the problem was not his wealth, but his pride (Luke 12:16-18). Some thank God wrongly: the Pharisee thanked God in pride, boasting of his acts, while the other prayed in humility, and thanksgiving must not be a display of self-achievement but be rooted in humility and reverence (Luke 18:10). And some thank God rightly: of the ten lepers, nine who knew the law did not return, but the Samaritan did, and Jesus asked, Where are the rest? (Luke 17:15-17). True thanksgiving acknowledges God's mercy and returns glory to Him.",
+    "The most appropriate time to give thanks is even in the midst of battle: thanksgiving is a weapon. Daniel gave thanks even after the decree forbidding worship; he chose thanksgiving in the face of danger (Daniel 6:10), and weakness in thanksgiving is weakness in faith. Chains break through thanksgiving: the disciples were chained, but the chains fell off after they gave praise (Acts 16:25-26). As we thank Him, anger, pain, and burdens cease: every prison and chain collapses by the power of praise.",
+    "God says, If you are alive, give Me thanks: He did not say give prayers or offerings; thanksgiving is the only thing we truly give to Him, and we have no reason not to thank God in every situation. Breath is the only criterion required for thanksgiving: if you have breath, you have all you need to give thanks, and no problem or issue is greater than God; waking up in the morning is enough reason to thank Him. We are called into a life that acknowledges and honors God: give thanks in all things, not because of circumstances (1 Thessalonians 5:18). Thanksgiving is incense rising to God, a posture of the heart that sees God in everything. Take a posture of thanksgiving: it is the way up to God."
+  ],
+  "reflection": "Do I thank God only when circumstances are good, or do I thank Him because I have breath?",
+  "prayer": "Father, thank You for breath, the only credential thanksgiving requires. Forgive me for the days I failed to recognize Your hand, and deliver me from the pride that claims what You gave. Teach me to thank You in the midst of battle, like Daniel under the decree and the disciples in the prison, until every chain breaks. I take the posture of thanksgiving today: it is the way up to God. In Jesus' name. Amen."
+},
+{
   "date": "2026-11-24",
   "display": "Tuesday, 24 November 2026",
   "title": "Salvation: God's Ultimate Gift and Eternal Agenda",
