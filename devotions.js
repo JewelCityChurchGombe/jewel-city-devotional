@@ -1,5 +1,20 @@
 const DEVOTIONS = [
 {
+  "date": "2026-11-28",
+  "display": "Saturday, 28 November 2026",
+  "title": "The Candlestick Church: Made Ready for His Appearing",
+  "anchorText": "“So Christ was once offered to bear the sins of many; and unto them that look for him shall he appear the second time without sin unto salvation.”",
+  "anchorRef": "Hebrews 9:28 (KJV)",
+  "paragraphs": [
+    "Not every church in the book of Revelation is one of the seven God chose to carry His revelation. God looks at a church and says, “Give this one the revelation of My Son” (Revelation 1:1). That is a privilege, not a right. A candlestick church is not a perfect church, for not one of the seven was flawless; it is a church that carries the light of Jesus. John saw Him standing in the midst of the seven golden candlesticks (Revelation 1:12–13), moving among His churches.",
+    "The appearing spoken of in Hebrews 9:28 is neither the appearing of Jesus to His church, when the church is caught up to meet Him, nor His appearing with His saints to judge the earth. It is the appearing unto them that look for Him, happening now, quietly, and the church at large is not aware of it. Jesus does not appear because we are already saved; He appears to bring us onto salvation. Appearance is not the same as arrival. Right now He is a minister of the sanctuary and of the true tabernacle, which the Lord pitched and not man (Hebrews 8:1–2).",
+    "A candlestick is a believer who has moved from the outer court into the holy place. That move does not come cheaply; it takes degrees of death. The Spirit ministers the cross: “if ye through the Spirit do mortify the deeds of the body, ye shall live,” and “as many as are led by the Spirit of God, they are the sons of God” (Romans 8:13–14). Offense exposes what is still alive in the flesh, so forgiveness is not optional; the moment you let go, the transformation that was waiting can proceed. “Because I live, ye shall live also” (John 14:19–20): the soul must first be raised before it can call God “my God.”",
+    "Revelation 6 lays this same journey out in picture form. The first four seals belong to the ministry of the Holy Ghost. The fifth seal is the waiting place, where the soul finally says, “Jesus, I give up all of it, the comfort, the world, the passion, everything,” because only the crucified can truly look for His appearing (Revelation 6:9–11). The sixth seal is resurrection: heaven opens because the soul is now ready to be ushered into the sanctuary (Revelation 6:12–16). The greatest obstacle is right at the beginning, the breaking away from the life of this world, but “if we have been planted together in the likeness of his death, we shall be also in the likeness of his resurrection” (Romans 6:5–6). See what is laid up for you. Don't miss it."
+  ],
+  "reflection": "What comfort or preference is still keeping your soul in the outer court, unwilling to be laid on the altar?",
+  "prayer": "My prayer is that our hearts will yield to every process the Holy Ghost is using to lead us away from the life of the flesh, so that we can awaken, so that our souls can rise, and that we will not be counted among those who sleep. We give ourselves fully to that process, in Jesus' name. Amen."
+},
+{
   "date": "2026-11-27",
   "display": "Friday, 27 November 2026",
   "title": "The Anointing Flows Upon the Body",
